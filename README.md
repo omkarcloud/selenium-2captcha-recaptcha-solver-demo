@@ -13,4 +13,4 @@ Please refer to ARTICLE_LINK for a detailed tutorial on solving captchas using 2
 - Replace "2CAPTCHA_API_KEY" with your 2captcha API Key.
 - Replace "SITE_KEY" with the Site Key of the Captcha you want to solve.
 - Install dependencies by running `python -m pip install 2captcha-python selenium webdriver-manager`.
-- Run `python main.py`.s
+- Run `python main.py`.
