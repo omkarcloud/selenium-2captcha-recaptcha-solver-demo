@@ -7,7 +7,7 @@ This is the final code for the tutorial you learn how to solve captcha using 2ca
 3. Submit the Site Key and Page URL to 2Captcha to solve the Captcha.
 4. Set the solved Captcha code on the appropriate element and submit the form.
 
-Please refer to ARTICLE_LINK for a detailed tutorial on solving captchas using 2captcha.
+Please refer to [https://www.omkar.cloud/blog/how-to-solve-captcha-in-selenium-using-2captcha/](https://www.omkar.cloud/blog/how-to-solve-captcha-in-selenium-using-2captcha/) for a detailed tutorial on solving captchas using 2captcha.
 
 ## Usage 
 - Replace "2CAPTCHA_API_KEY" with your 2captcha API Key.
